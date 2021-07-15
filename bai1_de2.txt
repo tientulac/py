@@ -1,0 +1,2 @@
+Phan tu lon thu 2 la: 6 index: [1, 7] 
+Phan tu nho thu 2 la: 2 index: [0, 5, 6] 
