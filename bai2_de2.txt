@@ -1,4 +1,0 @@
-Tong so nha da mua: 4a ----- Gia: 10.0 
-b ----- Gia: 20.0 
-a ----- Gia: 10.0 
-b ----- Gia: 20.0 
